@@ -103,3 +103,22 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found{
+
+  text-align: center;
+ 
+}
+
+.not-found h1 {
+    font-size: 250px;
+    margin-bottom: 20px;
+}
+
+.not-found a {
+  text-decoration: none;
+}
+
+.not-found a:hover {
+  color: #f1356d;
+}
